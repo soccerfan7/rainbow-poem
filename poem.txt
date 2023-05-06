@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow, unicorn and the fairies
 
 red
 orange
@@ -9,5 +9,6 @@ blue
 indigo
 violet
 unicorn
+fairy        
 
-these are the colors of the rainbow and unicorn
+these are the colors of the rainbow, unicorn and fairy
