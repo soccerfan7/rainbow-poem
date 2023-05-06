@@ -7,6 +7,7 @@ pink
 green
 blue
 indigo
+grey
 violet
 unicorn
 
